@@ -1,4 +1,4 @@
-# GhostReaver - Fully Autonomous Solana Trading and Snipping Bot
+# GhostReaver - Solana Trading/Snipping Bot
 
 ![Python Version](https://img.shields.io/badge/rust-1.89%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
